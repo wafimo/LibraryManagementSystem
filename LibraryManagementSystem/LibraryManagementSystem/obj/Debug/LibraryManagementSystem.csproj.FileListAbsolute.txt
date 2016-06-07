@@ -1,0 +1,25 @@
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminInterface.resources
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\C# Sailor\Windows Form Application\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.Reader.ReaderUI.resources
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminInterface.resources
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.Reader.ReaderUI.resources
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MetroFramework.Design.dll
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MetroFramework.dll
+E:\IUBAT\C# Sailor\Windows Form Application\LMS Soft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MetroFramework.Fonts.dll
